@@ -19,8 +19,7 @@
       "name": "syndie_broken"
     },
     {
-      "name": "syndie_stun",
-      "directions": 8
+      "name": "syndie_test"
     }
   ]
 }
